@@ -121,3 +121,15 @@ Works well with ESLint. Automatically formats the file when saving.
 ## ESLint
 
 `.eslintrc.js`
+
+## Directory structure
+
+The structure can be how you like. 
+But if you follow this, webpack-configuration will be easier. 
+Because this is the structure webpack is looking for: 
+
+ - dist - for distribution 
+ - src - for sourcecode
+ - src/components - for components daah (react-stuff)
+ - src/server - for server-stuff daaaaah. 
+ 
