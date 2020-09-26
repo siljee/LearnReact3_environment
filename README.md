@@ -106,4 +106,18 @@ It can also be used it you want consistent styling, and this can be shared acros
  - eslint-plugin-react - undertsand jsx and react-stuff
 
 
+## 7. Testing: Jest
+
+(not in this course)
+
+## 8. Prettier
+
+(not in this course)
+
+Works well with ESLint. Automatically formats the file when saving.
+
 # Setting up the environment from scratch - Configuration
+
+## ESLint
+
+`.eslintrc.js`
